@@ -18,7 +18,6 @@ Python, NumPy, Pandas, Matplotlib, Seaborn, Requests, Google Colab
 3. Or locally: `pip install -r requirements.txt` then open the notebook in Jupyter
 
 ## Google Colab
-<https://colab.research.google.com/drive/1QGv5yJsuMn3pPVbaRWOwoWxscP1mZLI4?usp=sharing>
-
+<https://colab.research.google.com/drive/1QGv5yJsuMn3pPVbaRWOwoWxscP1mZLI4>
 ## Screenshots
 Add `tips_dashboard.png` and `weather_charts.png` here.
