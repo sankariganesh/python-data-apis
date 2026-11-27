@@ -13,7 +13,7 @@ A data analysis application built in Python that cleans and analyzes a dataset, 
 Python, NumPy, Pandas, Matplotlib, Seaborn, Requests, Google Colab
 
 ## How to run
-1. Open `Module04_Python_Data_APIs.ipynb` in Google Colab
+1. Open `Python_APIS` in Google Colab
 2. Runtime > Run all
 3. Or locally: `pip install -r requirements.txt` then open the notebook in Jupyter
 
